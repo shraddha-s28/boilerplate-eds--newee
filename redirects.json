@@ -5,7 +5,7 @@
     "data": [
         {
             "source": "/het",
-            "destination": "/copy-of-footer"
+            "destination": "/test"
         }
     ],
     "columns": [
